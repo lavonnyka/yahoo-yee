@@ -33,8 +33,13 @@ form {
   text-align: center;
   font-size: 30px;
 }
+#sea {
+  font-size: 30px;
+  margin-left: 20px;
+}
 
 input {
+  margin-left: 20px;
   height: 20px;
   width: 300px;
   padding: 5px;
@@ -81,6 +86,9 @@ input {
   color:thistle;
   justify-content: center;
 }
+#warn-1 {
+  margin-right:20px ;
+}
 #san-5 {
   display: flex;
   align-items: center;
@@ -89,6 +97,10 @@ input {
   height: 50px;
   color:thistle;
   justify-content: center;
+}
+
+#warn-2 {
+  margin-right: 50px;
 }
 #news {
   flex-direction: column;
@@ -170,7 +182,7 @@ nav {
 #cog-1{
   display: flex;
   justify-content: center;
-  margin-top: 310px;
+  margin-top: 308px;
 }
 #fa-search {
   margin-top: 10px;
